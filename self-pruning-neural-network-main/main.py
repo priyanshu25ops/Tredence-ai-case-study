@@ -22,7 +22,7 @@ def main():
     
     args = parser.parse_args()
     
-    console.rule("[bold cyan]Self-Pruning Neural Network - Tredence Case Study[/bold cyan]")
+    console.rule("[bold cyan]Dynamic Pruning Neural Network (DP-NN)[/bold cyan]")
     
     table = Table(title="Configuration")
     table.add_column("Parameter", style="cyan")
