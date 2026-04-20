@@ -75,3 +75,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Entry point for the self-pruning neural network.
